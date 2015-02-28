@@ -1,6 +1,6 @@
 Alloy.Collections.instance("cars");
 
-var carsController = Alloy.crearteController("cars");
+var carsController = Alloy.createController("cars");
 
 Alloy.Collections.cars.reset(
 		[
